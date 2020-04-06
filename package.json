@@ -1,0 +1,12 @@
+{
+  "name": "s-receipts-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sergio Moura <sergio@moura.ca>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "prettier": "^2.0.4"
+  }
+}
