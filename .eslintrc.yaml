@@ -9,3 +9,4 @@ globals:
 
 rules:
   no-undef: error
+  semi: error
