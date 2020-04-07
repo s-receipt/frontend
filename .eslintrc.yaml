@@ -1,0 +1,11 @@
+parser: babel-eslint
+
+globals:
+  __dirname: true
+  console: true
+  process: true
+  document: true
+  window: true
+
+rules:
+  no-undef: error
